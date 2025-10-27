@@ -340,6 +340,20 @@
   - name: 赞助
     url: https://opencollective.com/ihateregex
 
+- title: Cyrilex
+  hex: "#e53e3e"
+  tags:
+  - 网页
+  - 开源
+  - 开发
+  date: "2025/10"
+  description: 测试和调试正则表达式。
+  links:
+  - name: 官网
+    url: https://extendsclass.com/regex-tester.html
+  - name: GitHub
+    url: https://github.com/cyrilbois/cyrilex
+
 - title: Msgif
   hex: "#7880dd"
   tags:
